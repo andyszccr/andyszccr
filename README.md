@@ -1,44 +1,60 @@
 ![inico](https://user-images.githubusercontent.com/60619582/194216252-147edd8f-dd5a-4f22-8fbf-ef7b6f49a0e8.jpg)
+<hr>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Andrey Sanchez</h1>
+<h3 align="center">Desarrollador de Software | Freelancer | Analista de Datos | Emprendedor</h3>
 
+<br/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-<h1 align="center">Hola 👋, Soy Andrey Sanchez</h1>
+- 🔭 Actualmente trabajando en <a href="https://phoenix.tech/griffyn/" target="blank">Coopealfaroruiz R.L</a>
 
+- 🌱 Actualmente trabjando en proyectos Web.
 
-- 🔭 Actualemente trabajo como freelancer y desarrollador
+- 🤝 Disponible para freelance.
 
-- 🌱 Estoy estudiando **Html, Javascript, SqlServer, React**
+- 🌱 Actualmente aprendiendo retos como SQL and .NET and gestion de proyectos.
 
-- 👨‍💻 Todos mis proyectos estan en : [www.andreyszcr.netlify.app](https://andreyszcr.netlify.app)
+- 💬 Ask me about **Databases, Power BI, Consejos de TI, Emprender, .NET**
 
-- 📫 Pueden contactarme al correo :**andreyszcr@gmail.com**
+- 📫 How to reach me **andreyszcr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/andreysz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="url-de-twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/andreyszcr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" /></a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 </p>
 
-<h3 align="left">Skills</h3>
-<p align="left">
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<!--- stats (end) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
-   <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-   <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Github" width="40" height="40"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png" alt="sqlserver" width="40" height="50"/> 
-  </a>
-  <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="visual studio" width="40" height="40"/> 
-  </a>
+</p>
+<br/>
+<br/>
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
   
 </p>
