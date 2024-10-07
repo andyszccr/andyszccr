@@ -1,4 +1,5 @@
-![inico](https://user-images.githubusercontent.com/60619582/194216252-147edd8f-dd5a-4f22-8fbf-ef7b6f49a0e8.jpg)
+
+![banner twitter](https://github.com/user-attachments/assets/118f0797-ad17-4d1c-ab5b-f7cf5e487575)
 <hr>
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Andrey Sanchez</h1>
 <h3 align="center">Desarrollador de Software | Freelancer | Analista de Datos | Emprendedor</h3>
