@@ -57,14 +57,80 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
 
 ### **STACK TECNOLÓGICO EMPRESARIAL**
 
-| **Categoría** | **Tecnologías** | **Nivel** |
-|---------------|-----------------|-----------|
-| **Backend Development** | C# (.NET 6/8), ASP.NET Core, Entity Framework | Expert |
-| **Frontend Development** | React, Angular, TypeScript, Bootstrap | Advanced |
-| **Base de Datos** | SQL Server, PostgreSQL, MySQL, MongoDB | Expert |
-| **Business Intelligence** | Power BI, SSRS, SSAS, DAX, M Query | Expert |
-| **Cloud Platforms** | Microsoft Azure, AWS (básico) | Intermediate |
-| **DevOps & Tools** | Azure DevOps, Git, Docker, Postman | Advanced |
+*Competencias técnicas según perfil profesional · Iconos del repo [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons#icons-list)*
+
+#### **Lenguajes y frameworks**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="48" height="48" alt="C#" title="C# / .NET" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt=".NET" title=".NET · ASP.NET MVC" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="48" height="48" alt="R" title="R" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python (básico)" />
+</p>
+
+<sub>ASP.NET MVC · WCF · .NET MAUI</sub>
+
+<br/>
+
+#### **Desarrollo web y frontend**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="HTML5" title="HTML 5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+<br/>
+
+#### **Bases de datos y analítica**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite" />
+</p>
+
+<sub>SQL Server · Transact-SQL · Análisis de datos · Reportes operativos</sub>
+
+<br/>
+
+#### **Desarrollo móvil**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt="Xamarin" title="Xamarin Forms" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio" title="Android Studio" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java" />
+</p>
+
+<br/>
+
+#### **Arquitectura de APIs**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="48" height="48" alt="APIs REST" title="APIs RESTful" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="Postman" title="Postman" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express" title="Node.js / servicios backend" />
+</p>
+
+<sub>SOAP · XML · JSON</sub>
+
+<br/>
+
+#### **Business Intelligence**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Azure" title="Ecosistema Microsoft" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="48" height="48" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="48" height="48" alt="PowerShell" title="PowerShell" />
+</p>
+
+<sub>Power BI · SSRS · ETL · Modelado de datos complejos</sub>
+
+<br/>
+
+#### **Gestión, despliegue y sistemas empresariales**
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Azure DevOps" title="Azure DevOps" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" title="Entornos Microsoft" />
+</p>
+
+<sub>Microsoft Dynamics CRM · SCRUM · Jira · ClickUp · Documentación técnica</sub>
 
 ---
 
@@ -160,6 +226,7 @@ Senior Software Developer & BI Specialist
 
 📧 **Email**: [andreyszcr@gmail.com](mailto:andreyszcr@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/andreysz](https://linkedin.com/in/andreysz)  
+🌐 **Portafolio**: [andreysz.netlify.app](https://andreysz.netlify.app/)  
 📱 **Disponibilidad**: Inmediata para nuevos proyectos
 
 ---
