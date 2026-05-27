@@ -55,82 +55,118 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
 
 ---
 
-### **STACK TECNOLÓGICO EMPRESARIAL**
+### **HERRAMIENTAS Y TECNOLOGÍAS**
 
-*Competencias técnicas según perfil profesional · Iconos del repo [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons#icons-list)*
-
-#### **Lenguajes y frameworks**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="48" height="48" alt="C#" title="C# / .NET" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt=".NET" title=".NET · ASP.NET MVC" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="48" height="48" alt="R" title="R" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python (básico)" />
+<p align="center">
+  <i>Tecnologías, lenguajes y herramientas que utilizo en mi perfil técnico.</i>
 </p>
 
-<sub>ASP.NET MVC · WCF · .NET MAUI</sub>
-
-<br/>
-
-#### **Desarrollo web y frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="HTML5" title="HTML 5" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
+<p align="center">
+  <i>Iconos: <a href="https://github.com/tandpfun/skill-icons#icons-list">tandpfun/skill-icons</a></i>
 </p>
 
 <br/>
 
-#### **Bases de datos y analítica**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<sub>SQL Server · Transact-SQL · Análisis de datos · Reportes operativos</sub>
+**Frontend y web**
 
-<br/>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="42" height="42" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="42" height="42" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="42" height="42" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify-Dark.svg" width="42" height="42" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
+</tr>
+</table>
 
-#### **Desarrollo móvil**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt="Xamarin" title="Xamarin Forms" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio" title="Android Studio" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java" />
-</p>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br/>
+**Backend y programación**
 
-#### **Arquitectura de APIs**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="48" height="48" alt="APIs REST" title="APIs RESTful" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="Postman" title="Postman" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express" title="Node.js / servicios backend" />
-</p>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="42" height="42" alt="C#"/><br/><sub><b>C#</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="42" height="42" alt=".NET"/><br/><sub><b>.NET</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="42" height="42" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="42" height="42" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="42" height="42" alt="Java"/><br/><sub><b>Java</b></sub></td>
+</tr>
+</table>
 
-<sub>SOAP · XML · JSON</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br/>
+**Bases de datos**
 
-#### **Business Intelligence**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Azure" title="Ecosistema Microsoft" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="48" height="48" alt="Visual Studio" title="Visual Studio" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="48" height="48" alt="PowerShell" title="PowerShell" />
-</p>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server"/><br/><sub><b>SQL Server</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="42" height="42" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="42" height="42" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="42" height="42" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+</tr>
+</table>
 
-<sub>Power BI · SSRS · ETL · Modelado de datos complejos</sub>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br/>
+**Datos, BI y analítica**
 
-#### **Gestión, despliegue y sistemas empresariales**
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" title="Git" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Azure DevOps" title="Azure DevOps" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows" title="Entornos Microsoft" />
-</p>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="72"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" height="42" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="42" height="42" alt="R"/><br/><sub><b>R</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="42" height="42" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="42" height="42" alt="PowerShell"/><br/><sub><b>PowerShell</b></sub></td>
+</tr>
+</table>
 
-<sub>Microsoft Dynamics CRM · SCRUM · Jira · ClickUp · Documentación técnica</sub>
+<sub>SSRS · ETL · Transact-SQL</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**DevOps y control de versiones**
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="42" height="42" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="42" height="42" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="42" height="42" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="42" height="42" alt="Git"/><br/><sub><b>Git</b></sub></td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Móvil, APIs y metodologías**
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="42" height="42" alt="Android"/><br/><sub><b>Android</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="42" height="42" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="42" height="42" alt="REST"/><br/><sub><b>REST</b></sub></td>
+<td align="center" width="72">📋<br/><sub><b>SCRUM</b></sub></td>
+<td align="center" width="72">📄<br/><sub><b>Docs</b></sub></td>
+</tr>
+</table>
+
+<sub>Xamarin · SOAP · Dynamics CRM</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
