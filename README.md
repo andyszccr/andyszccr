@@ -3,11 +3,34 @@
 
 ---
 
+<table>
+<tr>
+<td width="68%" valign="top">
+
 ### **PERFIL EJECUTIVO**
 
-Desarrollador Senior especializado en soluciones empresariales con **5+ años de experiencia** liderando proyectos de transformación digital. Experto en arquitectura .NET, análisis de datos avanzado y optimización de procesos de negocio. Historial comprobado en la entrega de soluciones que incrementan la eficiencia operacional en un **30-40%** y reducen costos de desarrollo hasta un **25%**.
+Ingeniero en sistemas con **más de 4 años de experiencia** en diseño de **arquitecturas escalables** y optimización de entornos mediante **.NET**, **Node.js** y **SQL Server**. Experto en elevar la **eficiencia operativa** y la **resolución de incidentes** al 100% en entornos críticos.
 
-**Valor Diferencial:** Combinación única de expertise técnico profundo con visión estratégica de negocio.
+Con trayectoria en **análisis, administración y optimización de bases de datos**, desarrollo de consultas SQL y procedimientos almacenados, monitoreo, integración de información y **dashboards** orientados a **Business Intelligence** para la toma de decisiones.
+
+Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica y **mejora continua**: validación y análisis de datos, automatización de reportes y soporte en entornos empresariales.
+
+**Me distingo por** un enfoque analítico y estratégico orientado a la innovación, la continuidad del negocio y la entrega puntual de soluciones tecnológicas de alto impacto.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/andreyszcr/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="44" height="44" alt="LinkedIn" />
+</a>
+
+</td>
+<td width="32%" align="right" valign="top">
+
+<img width="1086" height="1448" alt="andrey" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" width="220" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,10 +84,6 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
   <i>Tecnologías, lenguajes y herramientas que utilizo en mi perfil técnico.</i>
 </p>
 
-<p align="center">
-  <i>Iconos: <a href="https://github.com/tandpfun/skill-icons#icons-list">tandpfun/skill-icons</a></i>
-</p>
-
 <br/>
 
 <table width="100%">
@@ -111,6 +130,8 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="42" height="42" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="42" height="42" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="42" height="42" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" width="42" height="42" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/><br/><sub><b>Oracle</b></sub></td>
 </tr>
 </table>
 
@@ -125,10 +146,11 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="42" height="42" alt="R"/><br/><sub><b>R</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="42" height="42" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="42" height="42" alt="PowerShell"/><br/><sub><b>PowerShell</b></sub></td>
+<td align="center" width="72" bgcolor="#21262d"><a href="https://icons8.com/icon/X10esLaMcBb3/etl" title="ETL · Icons8"><img src="https://img.icons8.com/?size=48&id=X10esLaMcBb3&format=png&color=FFFFFF" width="42" height="42" alt="ETL"/></a><br/><sub><b>ETL</b></sub></td>
 </tr>
 </table>
 
-<sub>SSRS · ETL · Transact-SQL</sub>
+<sub>SSRS · Transact-SQL · <a href="https://icons8.com">Icons8</a></sub>
 
 </td>
 </tr>
@@ -221,25 +243,6 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
 
 ---
 
-### **CASOS DE ÉXITO RECIENTES**
-
-#### **Caso 1: Automatización Financiera - Fintech**
-- **Problema**: Procesamiento manual de 10,000+ transacciones diarias
-- **Solución**: Sistema automatizado con IA para detección de fraudes
-- **Resultado**: 99.7% accuracy, reducción de 15 FTE, ahorro anual de $2.1M
-
-#### **Caso 2: BI Dashboard - Retail Chain**
-- **Problema**: Reportes gerenciales tardaban 2 semanas en generarse
-- **Solución**: Plataforma Power BI en tiempo real con 40+ KPIs
-- **Resultado**: Decisiones en tiempo real, incremento del 23% en ventas
-
-#### **Caso 3: Modernización Legacy - Manufactura**
-- **Problema**: Sistema mainframe de 20 años, costos de mantenimiento altos
-- **Solución**: Migración completa a .NET Core con microservicios
-- **Resultado**: 50% reducción en costos IT, 40% mejora en performance
-
----
-
 ### **DISPONIBILIDAD Y MODALIDADES**
 
 #### **Modalidades de Trabajo**
@@ -261,7 +264,7 @@ Desarrollador Senior especializado en soluciones empresariales con **5+ años de
 Senior Software Developer & BI Specialist
 
 📧 **Email**: [andreyszcr@gmail.com](mailto:andreyszcr@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/andreysz](https://linkedin.com/in/andreysz)  
+💼 **LinkedIn**: [linkedin.com/in/andreyszcr](https://www.linkedin.com/in/andreyszcr/)  
 🌐 **Portafolio**: [andreysz.netlify.app](https://andreysz.netlify.app/)  
 📱 **Disponibilidad**: Inmediata para nuevos proyectos
 
