@@ -22,6 +22,10 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 <a href="https://www.linkedin.com/in/andreyszcr/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="44" height="44" alt="LinkedIn" />
 </a>
+&nbsp;
+<a href="https://discord.com" target="_blank" rel="noopener noreferrer" title="Discord: andyszcr_71883">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="44" height="44" alt="Discord: andyszcr_71883" />
+</a>
 
 </td>
 <td width="32%" align="right" valign="top">
