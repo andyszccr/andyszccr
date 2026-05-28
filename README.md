@@ -192,20 +192,34 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ---
 
-### **CERTIFICACIONES Y LOGROS**
+### **ACTIVIDAD EN GITHUB**
 
-#### **Certificaciones Profesionales**
-- 🏆 **Microsoft Certified: Azure Developer Associate**
-- 🏆 **Microsoft Certified: Data Analyst Associate (Power BI)**
-- 🏆 **Scrum Master Certified (SMC)**
-- 🏆 **Google Analytics Certified**
+*Métricas en tiempo real desde mis repositorios y contribuciones públicas · [@andreysz](https://github.com/andreysz)*
 
-#### **Reconocimientos**
-- ✅ **"Best Innovation Project"** - JSK Technology 2023
-- ✅ **Top Performer Q4 2022** - Incremento del 45% en productividad del equipo
-- ✅ **Client Excellence Award** - 95% satisfaction rate en proyectos freelance
+<p align="center">
+  <a href="https://github.com/andreysz">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=andreysz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/andreysz">
+    <img src="https://streak-stats.demolab.com/?user=andreysz&theme=dark&hide_border=true" height="165" alt="Racha de contribuciones en GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andreysz">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreysz&theme=dark&layout=compact&hide_border=true&langs_count=8" height="165" alt="Lenguajes más usados en mis repositorios" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andreysz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreysz&theme=github-dark&hide_border=true&area=true" alt="Gráfico de contribuciones de GitHub" />
+  </a>
+</p>
 
 ---
+
+
 
 ### **SERVICIOS PROFESIONALES**
 
