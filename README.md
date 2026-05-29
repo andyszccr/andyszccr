@@ -32,8 +32,8 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 </a>
 
 </td>
-<td width="38%" valign="top" style="border:none;padding:0;line-height:0;">
-<img width="100%" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" style="width:100%;min-height:420px;object-fit:cover;object-position:center 15%;border-radius:10px;display:block;"/>
+<td width="38%" align="center" valign="middle" style="border:none;padding:8px;">
+<img width="100%" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" style="width:100%;max-width:100%;min-height:400px;object-fit:cover;object-position:center center;border-radius:10px;display:block;margin:0 auto;"/>
 </td>
 </tr>
 </table>
