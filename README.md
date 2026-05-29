@@ -88,19 +88,13 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ### **HERRAMIENTAS Y TECNOLOGÍAS**
 
-<p align="center">
-  <i>Tecnologías, lenguajes y herramientas que utilizo en mi perfil técnico.</i>
-</p>
-
-<br/>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 
 **Frontend y web**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="42" height="42" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="42" height="42" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
@@ -114,7 +108,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 **Backend y programación**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="42" height="42" alt="C#"/><br/><sub><b>C#</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="42" height="42" alt=".NET"/><br/><sub><b>.NET</b></sub></td>
@@ -132,7 +126,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 **Bases de datos**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server"/><br/><sub><b>SQL Server</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" width="42" height="42" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
@@ -148,7 +142,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 **Datos, BI y analítica**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72" bgcolor="#21262d"><img src="https://github.com/user-attachments/assets/5d8b276d-9464-486c-930d-f969264d1f12" width="30" height="30" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="42" height="42" alt="R"/><br/><sub><b>R</b></sub></td>
@@ -159,7 +153,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 </tr>
 </table>
 
-<sub>SSRS · Transact-SQL · <a href="https://icons8.com">Icons8</a></sub>
+<sub>SSRS · Transact-SQL</sub>
 
 </td>
 </tr>
@@ -169,7 +163,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 **DevOps y control de versiones**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="42" height="42" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="42" height="42" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
@@ -184,14 +178,14 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 **IDEs, APIs y metodologías**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="42" height="42" alt="Visual Studio"/><br/><sub><b>VS</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="42" height="42" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="42" height="42" alt="Android"/><br/><sub><b>Android</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="42" height="42" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="42" height="42" alt="REST"/><br/><sub><b>REST</b></sub></td>
-<td align="center" width="72"><img src="https://img.icons8.com/?size=48&id=LKitQS9ULiYt&format=png&color=000000" width="42" height="42" alt="SCRUM"/><br/><sub><b>SCRUM</b></sub></td>
+<td align="center" width="72"><img src="https://img.icons8.com/?size=48&id=LKitQS9ULiYt&format=png&color=FFFFFF" width="42" height="42" alt="SCRUM"/><br/><sub><b>SCRUM</b></sub></td>
 </tr>
 </table>
 
@@ -203,15 +197,13 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 **Procesos, calidad y documentación**
 
-<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<table cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="33%"><img src="https://img.icons8.com/color/48/workflow.png" width="42" height="42" alt="Procesos"/><br/><sub><b>Procesos</b></sub></td>
 <td align="center" width="33%"><img src="https://img.icons8.com/color/48/iso.png" width="42" height="42" alt="Calidad ISO"/><br/><sub><b>Calidad</b></sub></td>
 <td align="center" width="33%"><img src="https://img.icons8.com/color/48/document--v1.png" width="42" height="42" alt="Documentación"/><br/><sub><b>Documentación</b></sub></td>
 </tr>
 </table>
-
-<sub><a href="https://icons8.com">Icons8</a></sub>
 
 </td>
 </tr>
@@ -266,30 +258,6 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ---
 
-
-
-### **SERVICIOS PROFESIONALES**
-
-#### **🏢 Para Empresas Grandes (500+ empleados)**
-- **Transformación Digital Completa**
-- **Arquitectura de Microservicios**
-- **Implementación de Data Lakes**
-- **Estrategia de Business Intelligence**
-
-#### **🏪 Para PYMEs (50-500 empleados)**
-- **Sistemas ERP Personalizados**
-- **Automatización de Procesos**
-- **Dashboards Ejecutivos**
-- **Integración de Sistemas Legacy**
-
-#### **🚀 Para Startups (1-50 empleados)**
-- **MVP Development**
-- **Arquitectura Escalable**
-- **Setup DevOps**
-- **Consultoría Técnica Estratégica**
-
----
-
 ### **PROPUESTA DE VALOR**
 
 > **"No solo desarrollo software, diseño soluciones de negocio que generan resultados medibles"**
@@ -341,4 +309,6 @@ Senior Software Developer & BI Specialist
 
 > *"La tecnología debe servir al negocio, no complicarlo. Mi enfoque siempre es encontrar la solución más elegante y eficiente para cada desafío empresarial."*
 > 
-> **— Andrey Sanchez** 
+> **— Andrey Sanchez**
+
+<p align="center"><sub>Iconos adicionales por <a href="https://icons8.com">Icons8</a></sub></p>
