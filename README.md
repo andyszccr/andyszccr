@@ -3,9 +3,9 @@
 
 ---
 
-<table>
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="68%" valign="top">
+<td width="65%" valign="top">
 
 ### **PERFIL EJECUTIVO**
 
@@ -32,13 +32,92 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 </a>
 
 </td>
-<td width="32%" align="right" valign="top">
+<td width="35%" align="center" valign="top">
 
-<img width="220" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" />
+<img width="100%" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" />
 
 </td>
 </tr>
 </table>
+
+---
+
+### **LOGROS**
+
+#### **Certificaciones**
+
+<div align="center">
+
+<table border="0" cellpadding="12" cellspacing="0" align="center" width="100%" style="border-collapse:collapse;border:none;table-layout:fixed;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<tr style="border:none;">
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412329/Andrey.Sanchez.Zuniga.Excel.Office.365Microsoft.365.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Excel Office 365 · Microsoft 365"/>
+</a>
+<br/><b>Excel Office 365 · Microsoft 365</b>
+<br/><sub>Microsoft · Productividad</sub>
+</td>
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412335/Certificado.conclusion-.Fundamentos.SQL.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Fundamentos SQL"/>
+</a>
+<br/><b>Fundamentos SQL</b>
+<br/><sub>Bases de datos · Conclusión</sub>
+</td>
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412339/Certificado.conclusion-.Git.Github.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Git & GitHub"/>
+</a>
+<br/><b>Git & GitHub</b>
+<br/><sub>Control de versiones · Conclusión</sub>
+</td>
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412340/Olman.Sanchez.Fundamentos.de.Scrum.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Fundamentos de Scrum"/>
+</a>
+<br/><b>Fundamentos de Scrum</b>
+<br/><sub>Metodologías ágiles</sub>
+</td>
+</tr>
+<tr style="border:none;">
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412345/olman-andrey-sanchez-zuniga.aceleracion.de.power.bi.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Aceleración de Power BI"/>
+</a>
+<br/><b>Aceleración de Power BI</b>
+<br/><sub>Business Intelligence</sub>
+</td>
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412391/Certificado.de.Github.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Certificado de GitHub"/>
+</a>
+<br/><b>Certificado de GitHub</b>
+<br/><sub>DevOps · Control de versiones</sub>
+</td>
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412393/Certificado.de.C.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Certificado de C#"/>
+</a>
+<br/><b>Certificado de C#</b>
+<br/><sub>Desarrollo .NET</sub>
+</td>
+<td align="center" valign="top" style="border:none;">
+<a href="https://github.com/user-attachments/files/28412487/Certificado_Aprovechamiento_Visualizacin_de_datos_con_PowerBI.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/3c15f0d2-3019-401e-9f3f-fd491c73f913" width="100" height="100" alt="Visualización de datos con Power BI"/>
+</a>
+<br/><b>Visualización de datos con Power BI</b>
+<br/><sub>Aprovechamiento · Business Intelligence</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
