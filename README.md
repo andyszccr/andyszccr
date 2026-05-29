@@ -58,7 +58,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 #### **🏗️ Gestión Técnica de Proyectos**
 - **Metodologías Ágiles** - Scrum Master Certificado, Kanban
-- **DevOps & CI/CD** - Azure DevOps, Jenkins, Docker
+- **DevOps & CI/CD** - Azure DevOps, Jenkins
 - **Arquitectura de Soluciones** - Diseño de sistemas enterprise
 - **Mentoring Técnico** - Formación de equipos de desarrollo
 
@@ -167,7 +167,6 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="42" height="42" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="42" height="42" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
-<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="42" height="42" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="42" height="42" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="42" height="42" alt="Git"/><br/><sub><b>Git</b></sub></td>
 </tr>
@@ -258,36 +257,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ---
 
-### **PROPUESTA DE VALOR**
 
-> **"No solo desarrollo software, diseño soluciones de negocio que generan resultados medibles"**
-
-#### **¿Por qué elegir mis servicios?**
-
-✅ **ROI Comprobado**: Proyectos que se pagan solos en 6-12 meses  
-✅ **Experiencia Cross-Industry**: Fintech, Retail, Manufactura, Salud  
-✅ **Metodología Probada**: Entrega on-time en 95% de proyectos  
-✅ **Soporte Post-Implementación**: 6 meses de soporte incluido  
-✅ **Escalabilidad Garantizada**: Arquitecturas preparadas para crecimiento  
-
----
-
-### **DISPONIBILIDAD Y MODALIDADES**
-
-#### **Modalidades de Trabajo**
-- 🏢 **On-site** (Ciudad de México y área metropolitana)
-- 💻 **Remoto** (Nacional e Internacional)
-- 🔄 **Híbrido** (Combinación según necesidades del proyecto)
-
-#### **Tipos de Contratación**
-- 📋 **Proyectos Específicos** (3-12 meses)
-- 🤝 **Consultoría por Horas** (Mínimo 20 hrs/semana)
-- 👔 **CTO/Lead Developer Temporal** (6+ meses)
-- 🎯 **Auditoría Técnica** (2-4 semanas)
-
----
-
-### **CONTACTO PROFESIONAL**
 
 **Andrey Sanchez**  
 Senior Software Developer & BI Specialist
