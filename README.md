@@ -150,7 +150,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
 <tr>
-<td align="center" width="72" bgcolor="#21262d"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="30" height="30" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
+<td align="center" width="72" bgcolor="#21262d"><img src="https://github.com/user-attachments/assets/5d8b276d-9464-486c-930d-f969264d1f12" width="30" height="30" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="42" height="42" alt="R"/><br/><sub><b>R</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="42" height="42" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="42" height="42" alt="PowerShell"/><br/><sub><b>PowerShell</b></sub></td>
