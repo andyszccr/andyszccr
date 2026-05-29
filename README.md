@@ -3,9 +3,9 @@
 
 ---
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border:none;">
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top" style="border:none;padding-right:16px;">
 
 ### **PERFIL EJECUTIVO**
 
@@ -32,10 +32,8 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 </a>
 
 </td>
-<td width="35%" align="center" valign="top">
-
-<img width="100%" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" />
-
+<td width="38%" valign="top" style="border:none;padding:0;line-height:0;">
+<img width="100%" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" style="width:100%;min-height:420px;object-fit:cover;object-position:center 15%;border-radius:10px;display:block;"/>
 </td>
 </tr>
 </table>
