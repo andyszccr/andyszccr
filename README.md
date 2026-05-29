@@ -23,14 +23,18 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="44" height="44" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://discord.com" target="_blank" rel="noopener noreferrer" title="Discord: andyszcr_71883">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="44" height="44" alt="Discord: andyszcr_71883" />
+<a href="mailto:andreyszcr@gmail.com" title="andreyszcr@gmail.com">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="44" height="44" alt="Email: andreyszcr@gmail.com" />
+</a>
+&nbsp;
+<a href="https://x.com/Andrey62916578" target="_blank" rel="noopener noreferrer" title="X (Twitter): @Andrey62916578">
+  <img src="https://img.icons8.com/?size=48&id=6Fsj3rv2DCmG&format=png&color=FFFFFF" width="44" height="44" alt="X (Twitter)" />
 </a>
 
 </td>
 <td width="32%" align="right" valign="top">
 
-<img width="1086" height="1448" alt="andrey" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" width="220" />
+<img width="220" alt="Andrey Sanchez" src="https://github.com/user-attachments/assets/59c45d44-cd10-4499-920c-964cb036f420" />
 
 </td>
 </tr>
@@ -146,10 +150,11 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
 <tr>
-<td align="center" width="72"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" height="42" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
+<td align="center" width="72" bgcolor="#21262d"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="30" height="30" alt="Power BI"/><br/><sub><b>Power BI</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" width="42" height="42" alt="R"/><br/><sub><b>R</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="42" height="42" alt="Azure"/><br/><sub><b>Azure</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="42" height="42" alt="PowerShell"/><br/><sub><b>PowerShell</b></sub></td>
+<td align="center" width="72" bgcolor="#21262d"><img src="https://github.com/user-attachments/assets/dc44873e-1a89-46b0-9cba-76b732154867" width="36" height="36" alt="SSIS"/><br/><sub><b>SSIS</b></sub></td>
 <td align="center" width="72" bgcolor="#21262d"><a href="https://icons8.com/icon/X10esLaMcBb3/etl" title="ETL · Icons8"><img src="https://img.icons8.com/?size=48&id=X10esLaMcBb3&format=png&color=FFFFFF" width="42" height="42" alt="ETL"/></a><br/><sub><b>ETL</b></sub></td>
 </tr>
 </table>
@@ -167,6 +172,7 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="42" height="42" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="42" height="42" alt="Windows"/><br/><sub><b>Windows</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="42" height="42" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="42" height="42" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="42" height="42" alt="Git"/><br/><sub><b>Git</b></sub></td>
@@ -176,19 +182,36 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 </td>
 <td width="50%" valign="top" align="center">
 
-**Móvil, APIs y metodologías**
+**IDEs, APIs y metodologías**
 
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
 <tr>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="42" height="42" alt="Visual Studio"/><br/><sub><b>VS</b></sub></td>
+<td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="42" height="42" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="42" height="42" alt="Android"/><br/><sub><b>Android</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="42" height="42" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
 <td align="center" width="72"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" width="42" height="42" alt="REST"/><br/><sub><b>REST</b></sub></td>
-<td align="center" width="72">📋<br/><sub><b>SCRUM</b></sub></td>
-<td align="center" width="72">📄<br/><sub><b>Docs</b></sub></td>
+<td align="center" width="72"><img src="https://img.icons8.com/?size=48&id=LKitQS9ULiYt&format=png&color=000000" width="42" height="42" alt="SCRUM"/><br/><sub><b>SCRUM</b></sub></td>
 </tr>
 </table>
 
-<sub>Xamarin · SOAP · Dynamics CRM</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+
+**Procesos, calidad y documentación**
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="33%"><img src="https://img.icons8.com/color/48/workflow.png" width="42" height="42" alt="Procesos"/><br/><sub><b>Procesos</b></sub></td>
+<td align="center" width="33%"><img src="https://img.icons8.com/color/48/iso.png" width="42" height="42" alt="Calidad ISO"/><br/><sub><b>Calidad</b></sub></td>
+<td align="center" width="33%"><img src="https://img.icons8.com/color/48/document--v1.png" width="42" height="42" alt="Documentación"/><br/><sub><b>Documentación</b></sub></td>
+</tr>
+</table>
+
+<sub><a href="https://icons8.com">Icons8</a></sub>
 
 </td>
 </tr>
@@ -196,30 +219,50 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ---
 
-### **ACTIVIDAD EN GITHUB**
-
-*Métricas en tiempo real desde mis repositorios y contribuciones públicas · [@andreysz](https://github.com/andreysz)*
+### **GITHUB ANALYTICS**
 
 <p align="center">
-  <a href="https://github.com/andreysz">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=andreysz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/andreysz">
-    <img src="https://streak-stats.demolab.com/?user=andreysz&theme=dark&hide_border=true" height="165" alt="Racha de contribuciones en GitHub" />
-  </a>
+  <i>Panel de métricas · <a href="https://github.com/andyszccr">@andyszccr</a></i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/andreysz">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andreysz&theme=dark&layout=compact&hide_border=true&langs_count=8" height="165" alt="Lenguajes más usados en mis repositorios" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/andreysz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreysz&theme=github-dark&hide_border=true&area=true" alt="Gráfico de contribuciones de GitHub" />
-  </a>
-</p>
+<table border="0" cellspacing="14" cellpadding="8">
+<tr>
+<td align="center" bgcolor="#252423">
+<sub><b>📊 Resumen de actividad</b></sub><br/><br/>
+<img height="205" src="https://github-readme-stats-fast.vercel.app/api?username=andyszccr&show_icons=true&theme=react&hide_border=true&bg_color=252423&title_color=F2C811&icon_color=118DFF&text_color=FFFFFF&border_radius=12&include_all_commits=true&count_private=true&rank_icon=percentile" alt="Estadísticas de GitHub" />
+</td>
+<td align="center" bgcolor="#252423">
+<sub><b>🍩 Distribución de lenguajes</b></sub><br/><br/>
+<img height="205" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andyszccr&layout=donut-vertical&langs_count=6&theme=react&hide_border=true&bg_color=252423&title_color=F2C811&text_color=FFFFFF&icon_color=118DFF&border_radius=12" alt="Lenguajes más usados" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<table border="0" cellspacing="14" cellpadding="8" width="100%">
+<tr>
+<td align="center" bgcolor="#252423">
+<sub><b>🔥 KPI · Racha y contribuciones</b></sub><br/><br/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=andyszccr&theme=dark&hide_border=true&background=252423&stroke=118DFF&ring=F2C811&fire=F2C811&currStreakLabel=F2C811&sideNums=FFFFFF&sideLabels=E6E6E6&dates=B3B3B3" alt="Racha de contribuciones" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<table border="0" cellspacing="14" cellpadding="8" width="100%">
+<tr>
+<td align="center" bgcolor="#252423">
+<sub><b>📈 Tendencia de commits</b></sub><br/><br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andyszccr&bg_color=252423&color=FFFFFF&line=118DFF&point=F2C811&area=true&hide_border=true&custom_title=Actividad%20GitHub%20%7C%20andyszccr&height=220" alt="Gráfico de actividad" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
