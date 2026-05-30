@@ -338,26 +338,6 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ---
 
-
-
-**Andrey Sanchez**  
-Senior Software Developer & BI Specialist
-
-📧 **Email**: [andreyszcr@gmail.com](mailto:andreyszcr@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/andreyszcr](https://www.linkedin.com/in/andreyszcr/)  
-🌐 **Portafolio**: [andreysz.netlify.app](https://andreysz.netlify.app/)  
-📱 **Disponibilidad**: Inmediata para nuevos proyectos
-
----
-
-#### **Para Solicitar Propuesta:**
-*Envía un email con detalles de tu proyecto. Respuesta garantizada en 24 horas.*
-
-#### **Para Consulta Inicial Gratuita (30 min):**
-*Análisis sin compromiso de tu situación técnica actual y recomendaciones estratégicas.*
-
----
-
 > *"La tecnología debe servir al negocio, no complicarlo. Mi enfoque siempre es encontrar la solución más elegante y eficiente para cada desafío empresarial."*
 > 
 > **— Andrey Sanchez**
