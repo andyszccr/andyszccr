@@ -123,47 +123,15 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 
 ---
 
-### **COMPETENCIAS CLAVE**
+### **EXPERIENCIA PROFESIONAL**
 
-#### **🎯 Desarrollo de Software Empresarial**
-- **Arquitectura .NET Core/Framework** - Microservicios escalables
-- **Desarrollo Full-Stack** - React, Angular, TypeScript, C#
-- **Integración de Sistemas** - APIs RESTful, GraphQL, SOA
-- **Optimización de Performance** - Mejoras de rendimiento del 40-60%
+#### **JSK Technology Solutions** | *Senior Developer & BI Consultant* · 2022 – Presente
+- **ERP manufactura** — Sistema a medida para operación con 500+ usuarios.
+- **BI ejecutivo** — Dashboards y reportes para dirección y seguimiento de KPIs.
+- **Optimización de datos** — Refactorización de consultas, procedimientos y arquitectura en entornos críticos.
 
-#### **📊 Business Intelligence & Analytics**
-- **Microsoft Power BI** - Dashboards ejecutivos y KPIs estratégicos
-- **SQL Server Analysis Services** - Modelos multidimensionales complejos
-- **Data Engineering** - ETL/ELT, Data Warehousing, Azure Data Factory
-- **Automatización de Reportes** - Reducción del 70% en tiempo de generación
-
-#### **🏗️ Gestión Técnica de Proyectos**
-- **Metodologías Ágiles** - Scrum Master Certificado, Kanban
-- **DevOps & CI/CD** - Azure DevOps, Jenkins
-- **Arquitectura de Soluciones** - Diseño de sistemas enterprise
-- **Mentoring Técnico** - Formación de equipos de desarrollo
-
----
-
-### **EXPERIENCIA PROFESIONAL DESTACADA**
-
-#### **JSK Technology Solutions** | *Senior Developer & BI Consultant*
-**2022 - Presente**
-
-**Proyectos de Alto Impacto:**
-- 🚀 **Sistema ERP Personalizado**: Desarrollo completo en .NET Core para empresa manufacturera (500+ usuarios)
-  - *Resultado: 35% mejora en eficiencia operacional*
-- 📈 **Plataforma BI Ejecutiva**: Implementación de dashboards Power BI para C-Level
-  - *Resultado: Reducción del 80% en tiempo de toma de decisiones*
-- ⚡ **Optimización de Base de Datos**: Refactorización de queries y arquitectura
-  - *Resultado: 60% mejora en performance de aplicaciones críticas*
-
-#### **Freelance Consulting** | *Technical Consultant*
-**2020 - Presente**
-
-**Clientes Atendidos:** 15+ empresas en sectores financiero, retail y manufactura
-- **ROI Promedio:** 300% en proyectos de automatización
-- **Satisfacción del Cliente:** 98% (NPS Score: 9.2/10)
+#### **Consultoría freelance** · 2020 – Presente
+Desarrollo, bases de datos y automatización de reportes para clientes en sectores financiero, retail y manufactura.
 
 ---
 
