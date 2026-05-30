@@ -30,6 +30,10 @@ Lidero equipos técnicos con **metodologías ágiles**, innovación tecnológica
 <a href="https://x.com/Andrey62916578" target="_blank" rel="noopener noreferrer" title="X (Twitter): @Andrey62916578">
   <img src="https://img.icons8.com/?size=48&id=6Fsj3rv2DCmG&format=png&color=FFFFFF" width="44" height="44" alt="X (Twitter)" />
 </a>
+&nbsp;
+<a href="https://www.instagram.com/andreyszcr03/" target="_blank" rel="noopener noreferrer" title="Instagram: @andreyszcr03">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="44" height="44" alt="Instagram" />
+</a>
 
 </td>
 <td width="38%" align="center" valign="middle" style="border:none;padding:8px;">
